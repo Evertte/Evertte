@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast who e
 
 - 🎓 I'm currently a **Computer Science student** at Mississippi State University.
 - 🧠 I love working on projects that combine **AI, data science, and software engineering**.
-- 💡 I’ve built projects like a **KNN customer classifier**, an **AI Flappy Bird game**, ** e-commerce website**, and a **responsive website for dog lovers**.
+- 💡 I’ve built projects like a **Diabetes Predictor App**, **Breast Cancer Predictor App**, an **AI Flappy Bird game**, **e-commerce website**, **responsive website for dog lovers**, **etc**.
 - 🧪 I also explore **bioinformatics**, having worked on RNA sequence analysis using Python and Biopython.
 - 🔧 Currently learning more about **web development (Django)** and **machine learning models**.
 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast who e
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: berkyawevertte@gmail.com
+- 📧 [Email](berkyawevertte@gmail.com) 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/evertte) 
 
 ---
